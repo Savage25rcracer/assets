@@ -1,0 +1,57 @@
+{
+
+    "name": "APE STAX",
+
+    "website": "https://apestax.com/",
+
+    "description": "Welcome to the jungle. APE STAX is a community-driven hyper-deflationary ERC-20 token with a protocol designed to promote mutual success for all apes. With a purpose-built tokenomic structure, and a rich utility-based ecosystem at the heart of our jungle, $ASTAX is by the apes , for the apes..",
+
+    "explorer": "https://etherscan.io/token/0x0f8c793dbc30a185138d5da00f106290b26e36c5",
+
+    "type": "ERC20",
+
+    "symbol": "ASTAX",
+
+    "decimals": 9,
+
+    "status": "active",
+
+    "id": "0x0f8c793dbc30a185138d5da00f106290b26e36c5",
+
+    "links": [
+
+        {
+
+            "name": "twitter",
+
+            "url": "https://twitter.com/Ape_Stax"
+
+        },
+
+        {
+
+            "name": "discord",
+
+            "url": "https://discord.gg/3Qt4d354Zm"
+
+        },
+
+        {
+
+            "name": "Telegram",
+
+            "url": "https://t.me/apestax"
+
+        },
+
+        {
+
+            "name": "Coingecko",
+
+            "url": "https://www.coingecko.com/en/coins/ape-stax" 
+
+        }
+
+    ]
+
+}
